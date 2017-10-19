@@ -1,0 +1,10 @@
+.hi {
+    font-size: 10em;
+    height: 400px;
+    position: relative;
+    top: 200px;
+    color:red;
+}
+.josie:hover {
+    color:green;
+}
